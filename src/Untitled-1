@@ -1,0 +1,12 @@
+/
+├── client/           # React Frontend
+│   ├── App.js
+│   ├── AddPhotoForm.js
+│   ├── PhotoList.js
+│   └── index.js
+│
+├── server/           # Express + Mongoose Backend
+│   ├── index.js
+│   └── models/Photo.js
+│
+├── package.json
